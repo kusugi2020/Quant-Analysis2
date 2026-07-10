@@ -1,6 +1,8 @@
 streamlit
-finance-datareader
-pandas
 numpy
-scipy
+pandas
 scikit-learn
+scipy
+finance-datareader
+beautifulsoup4
+lxml
